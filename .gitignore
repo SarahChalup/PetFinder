@@ -1,0 +1,47 @@
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.ipynb~  # temporary notebook files
+*.nbconvert.ipynb
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Data files (optional – uncomment if you don’t want to track them)
+ *.csv
+# *.tsv
+# *.xlsx
+# *.json
+
+# Environment variables
+.env
+*.env
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Cache
+.cache/
+*.mypy_cache/
